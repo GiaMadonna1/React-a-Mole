@@ -17,7 +17,7 @@ function App() {
     }
 
     return (
-      <div>
+      <div style={{'display': 'flex' }}>
         {hills}
       </div>
     )
